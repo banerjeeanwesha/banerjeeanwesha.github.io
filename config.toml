@@ -1,5 +1,4 @@
 baseURL = 'anweshabanerjee.in'
 languageCode = 'en-us'
-title = 'AB's playground '
-theme = 'story'
-
+title = 'AB's'
+theme = 'ananke'
